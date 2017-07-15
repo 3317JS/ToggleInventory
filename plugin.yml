@@ -1,0 +1,16 @@
+name: ToggleInventory
+main: H3317\ToggleInventory\ToggleInventory
+version: 1
+api: [1.6.0]
+author: 3317JavaScriptProgrsMS
+
+commands:
+ ti:
+  Permission: ToggleInventory.cmd
+  description: ToggleInventory
+  usage: /ti
+
+permissions:
+ ToggleInventory.cmd:
+  default: true
+  description: ToggleInventory
